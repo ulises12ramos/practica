@@ -1,0 +1,51 @@
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Persistencia.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Dominio.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Dominio.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Persistencia.dll
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Dominio.dll
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.dll
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Persistencia.deps.json
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Persistencia.dll
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Persistencia.pdb
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Dominio.dll
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.AssemblyInfo.cs
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.csproj.CopyComplete
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.dll
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\refint\Persistencia.dll
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\Persistencia.pdb
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Persistencia\obj\Debug\net6.0\ref\Persistencia.dll

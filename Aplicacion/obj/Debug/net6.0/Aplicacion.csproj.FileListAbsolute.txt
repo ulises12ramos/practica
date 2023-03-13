@@ -1,0 +1,45 @@
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Dominio.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Dominio.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\jwill\source\repos\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Dominio.dll
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\Kelvin\source\repos\del ing\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Dominio.dll
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\bin\Debug\net6.0\Dominio.pdb
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CopyComplete
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\Ulise\OneDrive\Desktop\RestFullAPIBiblioteca\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
